@@ -3,8 +3,7 @@
 .RData
 .Ruserdata
 *.csv
-*.rds
-models/**
+model_*
 jamari_sites.csv
 distanciaEuclidianaBarragem.txt.xml
 distanciaEuclidianaDrenagem.txt.xml
